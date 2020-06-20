@@ -24,12 +24,3 @@
   font-size: 20px;
   background-color: gray;
 }
-
-.outside {
-  position: absolute;
-  margin-top: 5%;
-}
-
-.inside {
-  position: relative;
-}
